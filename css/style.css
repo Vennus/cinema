@@ -1,0 +1,184 @@
+* {
+	font-family: Helvetica;
+}
+a {
+	text-decoration: none;
+}
+
+header {
+	z-index: 10;
+	height: 80px;
+	background:white;
+}
+
+.logo img {
+	width: 310px;
+}
+
+.texto {
+	margin-top: 35px;
+	color: #D4D4D4;
+	font-size: 12px;
+}
+
+.buscador {
+	margin-top: 20px;
+}
+
+.boton {
+	background: url('../img/lupa.png') no-repeat;
+
+}
+.buscador input {
+	padding: 20px;
+	width: 250px;
+	height: 20px;
+}
+
+.main-1 {
+	background:#383838 url('../img/banner.jpg') no-repeat;
+	background-size: 70% 100%;
+	height: 450px;
+}
+
+.w-100{
+	width: 100%;
+}
+
+.hero {
+	width: 70px;
+	height: 70px;
+	position: absolute;
+	top:270px;
+	left: 270px;
+}
+
+h1 {
+	font-size: 40px;
+}
+hr {
+	margin: 15px 0;
+}
+
+.texto-5 a {
+	border-radius: 5px;
+	border: 1px solid #3BCF68;
+	padding: 5px;
+	color:#3BCF68;
+}
+
+.big {
+	margin-top: 20px;
+	margin-left: 10px;
+	color:#D3D3D3;
+}
+article .texto-5 a, p {
+	display: inline-block;
+	padding: 10px;
+	color: #CECECE;
+}
+
+.description {
+	float: right;
+}
+table .description {
+	float: left;
+	color: white;
+}
+table td {
+	margin-right: -100px;
+	color: #D3D3D3;
+}
+
+.nav-3 {
+	margin-top: 35px;
+	width: 500px;
+
+}
+
+.nav-2 {
+	margin-top: 15px;
+	width: 200px;
+}
+
+.nav-2 a {
+	border-radius: 5px;
+	padding: 15px;
+	background: #DFB636;
+	color: white;
+}
+
+.nav-3 a {
+	border-radius: 5px;
+	padding: 15px;
+	background: #BB7B29;
+	color: white;
+}
+article {
+	background: #DFB636;
+	padding: 30px;
+}
+article img {
+	width: 100%;
+	height: 200px;
+}
+iframe {
+	margin: 0px;
+	padding: 0px;
+}
+
+aside {
+	background:white;
+}
+h3 {
+	 color: #D1D1D1;
+	 padding: 20px 0;
+}
+.tcket  {
+	border-radius: 5px;
+	padding:20px;
+	background: #BB7B29;
+	width: 150px;
+}
+.tcket a {
+	color:white;right: 
+}
+hr {
+	width: 100%;
+	color: #F1F1F1;
+}
+.prim p {
+	font-size: 20px;
+	padding: 30px 0px;
+}
+.prim .pie {
+	color: #C79355;
+	font-size: 15px;
+}
+
+.segun h3 {
+	font-size: 30px;
+}
+
+.segun .pie-2 {
+	color:#E3C15D ;
+	font-size: 15px;
+}
+
+.caja img {
+	width: 100%;
+	height: 300px;
+	margin-top: 30px; 
+}
+
+/*--Footer--*/
+
+footer {
+	background: #F3F3F3;
+}
+footer a {
+	text-decoration: none;
+	color:#C9C9C9;
+}
+footer p {
+	padding:0px;
